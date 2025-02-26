@@ -1,4 +1,8 @@
-# Focus - Stay Productive With Tab Management
+<p align="center">
+  <img width="100" src="images/icon128.png" />
+  <h1 align="center">Focus</h1>
+</p>
+
 
 Focus is a Chrome extension that helps you stay on task by monitoring your browsing habits and gently reminding you when you're getting distracted.
 
