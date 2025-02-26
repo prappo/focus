@@ -6,6 +6,15 @@
 
 Focus is a Chrome extension that helps you stay on task by monitoring your browsing habits and gently reminding you when you're getting distracted.
 
+## Screenshots
+
+<!-- table of screenshots -->
+
+
+| Extension | Notification |
+|---|---|
+| ![Screenshot 1](assets/extension-screenshot.png) | ![Screenshot 2](assets/notification-screenshot.png) |
+
 ## Features
 
 - **Focus Mode**: When enabled, monitors your browsing and alerts you when you spend too much time on non-focus tabs
